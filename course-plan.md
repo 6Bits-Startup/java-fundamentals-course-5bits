@@ -4,9 +4,9 @@
 
 Este curso introduce a estudiantes de secundaria a los fundamentos de la programación con Java, desde las variables hasta la programación orientada a objetos. En cada lección construyes un pequeño programa de tu día a día: tu tarjeta de perfil, un tablero de puntajes de un juego, una mascota virtual y un registro de notas de tu salón. **¡No requiere descargas!** Solo abre tu navegador web.
 
-**Duración total**: ~42 minutos (4 lecciones publicadas)
-**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
-**Prerrequisitos**: Ninguno
+**Duración total**: ~42 minutos (4 lecciones publicadas)  
+**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
+**Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) y el editor gratuito [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 
 **📂 Repositorio de Código Fuente**: [https://github.com/6Bits-Startup/java-fundamentals-course-5bits](https://github.com/6Bits-Startup/java-fundamentals-course-5bits)
@@ -62,14 +62,14 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 
 ## 👥 Elaboración
 
-Universidad Peruana de Ciencias Aplicadas
-Carrera de Ingeniería de Software
-Período 202620
-1ASI0729 Desarrollo de Aplicaciones Open Source
+Universidad Peruana de Ciencias Aplicadas  
+Carrera de Ingeniería de Software  
+Período 202620  
+1ASI0729 Desarrollo de Aplicaciones Open Source  
 NRC 7742
 
-**Nombre del equipo**: 5Bits
-**Líder del equipo**: Olivares Lao, Gustavo Alonso
+**Nombre del equipo**: 5Bits  
+**Líder del equipo**: Olivares Lao, Gustavo Alonso  
 **Integrantes del equipo**:
 - Atencio Cristobal, Cielo Valentina — Lección 1
 - Cáceres Pizarro, Albino Florencio — Lección 2
