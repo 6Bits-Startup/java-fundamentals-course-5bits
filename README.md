@@ -1,6 +1,6 @@
 # Fundamentos de Java para Principiantes
 
-Curso en video de 1 hora para estudiantes de secundaria (12 a 17 años) sin experiencia en programación. Cubre los fundamentos de Java y una introducción a la Programación Orientada a Objetos (POO).
+Curso en video para estudiantes de secundaria (12 a 17 años) sin experiencia en programación. Cubre los fundamentos de Java y una introducción a la Programación Orientada a Objetos (POO).
 
 **¡No necesitas instalar nada!** Todo se practica desde el navegador.
 
@@ -33,11 +33,11 @@ Cada carpeta tiene una subcarpeta por lección: `lesson-1`, `lesson-2`, ... `les
 
 | # | Lección | Duración |
 |---|---|---|
-| 1 | ¿Qué es programar? Variables, tipos de datos y operadores | ~12 min |
-| 2 | Entrada de datos, decisiones y bucles | ~12 min |
-| 3 | Métodos, arrays y textos | ~12 min |
-| 4 | Clases y objetos: tu mascota virtual | ~12 min |
-| 5 | Proyecto final, buenas prácticas y errores comunes | ~12 min |
+| 1 | ¿Qué es programar? Variables, tipos de datos y operadores | 11 min |
+| 2 | Entrada de datos, decisiones y bucles | Pendiente de publicación |
+| 3 | Métodos, arrays y textos | 8 min |
+| 4 | Clases y objetos: tu mascota virtual | 9 min |
+| 5 | Proyecto final, buenas prácticas y errores comunes | 15 min |
 
 El plan completo del curso, con los enlaces a los videos y a las prácticas, está en `course-plan.md`.
 
